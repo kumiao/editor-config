@@ -6,12 +6,12 @@
     <property name="PhpStorm.initialConfigurationShown" value="true" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="8" />
+    <property name="lastTip" value="9" />
     <property name="SplitFileEditor.Proportion" value="0.85" />
     <property name="file.chooser.recent.files" value="D:/Program Files/Git/bin/bash.exe" />
     <property name="settings.code.style.selected.tab.PHP" value="PHPDoc" />
     <property name="FileTemplates.SelectedTemplate" value="HTML File" />
-    <property name="selected.color.option.type" value="PHP_SCRIPTING_BACKGROUND" />
+    <property name="selected.color.option.type" value="PHP_VAR" />
     <property name="PLUGIN_FILTER" value="liveedit&#10;EditorConfig" />
   </component>
 </application>

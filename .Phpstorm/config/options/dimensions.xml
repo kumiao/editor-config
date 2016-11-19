@@ -8,6 +8,7 @@
     <location key="#Browse_Repositories.0.0.1366.768" x="0" y="64" />
     <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="230" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="437" y="218" />
+    <location key="SettingsEditor.0.0.1920.1080" x="591" y="331" />
     <size key="SettingsEditor.0.0.1366.768" width="992" height="593" />
   </component>
 </application>
